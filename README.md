@@ -1,4 +1,4 @@
-Learnings:
+Learnings: (LinkedIn Course)
 
 - REST API calls from Python
 - Authentication
